@@ -1,27 +1,27 @@
 [
   {
     "name": "战双角色代表色",
-    "pri": "3000",
+    "pri": "300",
     "content": "战双帕弥什/战双/pgr/zspms/punishing\n露西亚:#E7222E\n丽芙:#FF82F5\n里:#00B3FF\n七实:#BFF840\n比安卡:#BCA886\n卡列尼娜:#F5BB17\n渡边:#7EAD7C\n神威:#22E42C\n库洛姆:#63D0ED\n艾拉:#FF88B9\n薇拉:#FF4613\n苏菲亚:#792727\n常羽:#888800\n曲:#00C389\n卡穆:#250B58\n露娜:#C80937\n罗塞塔:#5555A0\n尼尔:#5B2C68\n赛琳娜:#0072FF\n万事:#048EA2\n21号:#8E87D4\n罗兰:#D15D28\n蒲牢:#970202\n哈卡玛:#C49C4F\n诺安:#B0A7D3\n邦比娜塔:#0EC8F7\n含英:#07884C\n诺克提:#FF565D\n亚里莎:#8B6ADF\n拉弥亚:#6783BC\nBRS:#218FBD\n布偶熊:#B57766\n布丽姬特:#DD9999\n八咫:#F0831E\n伊什梅尔:#E5167C\n莉莉丝:#31429F\n洁塔薇:#893B67\n但丁:#7B572D\n维吉尔:#9BD5DF\n斜奏:#2045D1\n维罗妮卡:#C41970\n涅缇娅:#5B2E85\n海伦汀:#4F888E"
   },
   {
     "name": "Tailwind",
-    "pri": "3001",
+    "pri": "301",
     "content": "Red:#fb2c36\nOrange:#ff692a\nAmber:#fe9a37\nYellow:#f0b13b\nLime:#7ccf35\nGreen:#31C950\nEmerald:#37BC7D\nTeal:#36BBA7\nCyan:#3BB8DB\nSky:#34A6F4\nBlue:#2B7FFF\nIndigo:#615FFF\nViolet:#8E51FF\nPurple:#AD46FF\nFuchsia:#E12AFB\nPink:#F6339A\nRose:#FF2056"
   },
     {
     "name": "FlatUi",
-    "pri": "3002",
+    "pri": "302",
     "content": "绿松:#1ABC9C\n林海:#16A085\n翡翠:#2ECC71\n本草:#27AE60\n碧河:#3498DB\n蓝渊:#2980B9\n结晶:#9B59B6\n紫藤:#8E44AD\n沥青:#34495E\n幽兰:#2C3E50\n金葵:#F1C40F\n柑橘:#F39C12\n甘荀:#E67E22\n南瓜:#D35400\n茜素:#E74C3C\n石榴:#C0392B\n祥云:#ECF0F1\n白银:#BDC3C7\n凝砼:#95A5A6\n石棉:#7F8C8D"
   },
   {
     "name": "*柱东",
-    "pri": "3003",
+    "pri": "303",
     "content": "zhudong\n1:#11bb55\n2:#0066cc\n3:#ffcc44\n4:#ff7722\n5:#ee0011\n6:#ff77aa\n7:#bbdd22\n8:#33aaee\n9:#994433\n10:#33ccbb\n11:#cc33cc\n12:#884499\n13:#003377\n14:#117755\n15:#cc3366\n16:#99aa33\n17:#228899\n18:#ff6666\n19:#ee2288\n20:#6655cc\n21:#dd9944\n22:#bb88ee\n23:#33dd99\n24:#ffccaa\n25:#ddaacc\n26:#99ccff"
   },
   {
     "name": "FluentUI",
-    "pri": "3004",
+    "pri": "304",
     "content": "YR:#d29200\nY:#ffb900\nYL:#fff100\nO:#d83b01\nOL:#ea4300\nOLR:#ff8c00\nRD:#a4262c\nR:#d13438\nMD:#5c005c\nM:#b4009e\nML:#e3008c\nPD:#32145a\nP:#5c2d91\nPL:#b4a0ff\nBD:#002050\nBM:#00188f\nB:#0078d4\nBL:#00bcf2\nTD:#004b50\nT:#008272\nTL:#00B294\nGD:#004b1c\nG:#107c10\nGL:#bad80a"
   }
 ]
